@@ -57,4 +57,6 @@
 
 WORK IN PROGRESS GITHUB PAGES!!!
 
+![Static Badge](https://img.shields.io/badge/BTC-DONATE-ff8000?style=plastic&logo=bitcoin)**bc1qrv2h2kjzp7ycjwrpmlsgnve4xlujw6rc5v96f9** 
+![Static Badge](https://img.shields.io/badge/SOL-DONATE-blue?style=plastic&logo=solana)**2gbQraAm9ka96CnXpJATF44FHevnWtpWaWyAXQwTzjNU** 
 
